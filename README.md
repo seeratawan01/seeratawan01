@@ -1,14 +1,12 @@
 ### Hi there, I'm [Seerat Awan][website] 👋
 
-### Connect with me:
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dseeratawan%26type%3Dpledges&style=for-the-badge)](https://patreon.com/seeratawan)
-[![Twitter Follow](https://img.shields.io/twitter/follow/seeratawan01?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+A lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
 
-## I'm a Developer, and Engineer!!
+## I'm a Developer, and a Engineer!!
 
-- 🔭 I’m currently working as a front-end Developer !
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working as a front-end Engineer !
+- 🌱 I'm learning everyday. I listen, learn, and then create.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
