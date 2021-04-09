@@ -1,4 +1,4 @@
-### Hi there, I'm [Seerat Awan][website] 👋
+## Hi there, I'm [Seerat Awan][website] 👋
 
 A lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
