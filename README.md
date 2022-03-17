@@ -7,7 +7,7 @@ A lot of my open source work is focusing on making web development easier, which
 
 - 🔭 I’m currently working as a front-end Engineer !
 - 🌱 I'm learning everyday. I listen, learn, and then create.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 This year Goal: Contribute more to Open Source projects
 
 <br />
 
