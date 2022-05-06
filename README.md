@@ -1,4 +1,4 @@
-## Hi there, I'm [Seerat Awan][website] 👋
+## Hi there, I'm [Seerat Awan][website] 👋 ![](https://hit.yhype.me/github/profile?user_id=26021449)
 
 A lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
