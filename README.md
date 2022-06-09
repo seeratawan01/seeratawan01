@@ -45,6 +45,10 @@ A lot of my open source work is focusing on making web development easier, which
     <a href="https://www.linkedin.com/in/seerat-awan-01">
         <img alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
     </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://seeratawan.medium.com/">
+        <img alt="Medium" width="32px" src="https://img.icons8.com/color/48/undefined/medium-monogram.png"/>
+    </a>
 </p>
 
 <br/>
